@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# Zion Status
 
-**zion-status** is part of the Zion Tech Group app network (630+ apps).
+Zion network status page.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [AI Agents & Orchestration](https://github.com/Zion-support/zion-network/blob/main/network/ai-agents-orchestration.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-network](https://github.com/Zion-support/zion-network)
+- Related: [status-page-generator](https://github.com/Zion-support/status-page-generator) · [zion-ai-status-comms](https://github.com/Zion-support/zion-ai-status-comms) · [zion-ai-sla-breach-sentinel](https://github.com/Zion-support/zion-ai-sla-breach-sentinel) · [zion-ai-incident-commander](https://github.com/Zion-support/zion-ai-incident-commander)
 
-## Related apps
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-- [zion-portal](https://github.com/Zion-support/zion-portal) — client workspace
-- [zion-plans](https://github.com/Zion-support/zion-plans) — plans & pricing catalog
-- [zion-tools](https://github.com/Zion-support/zion-tools) — ROI/FinOps/SLA calculators
-- [zion-agents](https://github.com/Zion-support/zion-agents) — autonomous agent fleet
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
