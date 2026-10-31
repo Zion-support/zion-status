@@ -30,6 +30,6 @@ GitHub Pages is already enabled on `main` (`/`). HTTPS certificate provisions af
 - [Zion Tools](https://ziontechgroup.com/zion-tools/) — `tools.ziontechgroup.com`
 - [Zion Portal](https://ziontechgroup.com/zion-portal/) — `portal.ziontechgroup.com`
 
-Official commercial menu (only these four): Discovery $99 · Consulting $499 · Starter $2,500 · Growth $8,000/mo.
+Official commercial menu (only these four): Free online Discovery · Consulting $499 · Starter $2,500 · Growth $8,000/mo.
 
 Contact: kleber@ziontechgroup.com · +1 302 464 0950 · 364 E Main St STE 1008, Middletown, DE 19709
